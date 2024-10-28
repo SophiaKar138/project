@@ -10,15 +10,15 @@
     font-size: 35px;
     text-align: center;
     font-weight: bold;
-    color: rgb(175, 29, 78);
+    color: rgb(184, 171, 139);
 }
 
 .adjective {
-    text-align: center;
+    text-align: left;
 }
 
 .background {
-    background-color: rgb(192, 179, 160);
+    background-color: rgb(57, 43, 20);
 }
 
 @media (max-width: 400px) {
@@ -34,7 +34,7 @@
     font-size: 20px;
     text-align: center;
     font-weight: bold; 
-    color: rgb(203, 60, 125);
+    color: rgb(202, 179, 138);
 }
 
 .love {
