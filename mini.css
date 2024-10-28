@@ -21,14 +21,6 @@
     background-color: rgb(192, 179, 160);
 }
 
-.audi{
-    height: 350px;
-    border: 1px solid silver;
-    margin: 8px;
-    box-shadow: 0 0 16px silver;
-    border-radius: 16px;
-}
-
 @media (max-width: 400px) {
     img {
         width: 90%;
@@ -43,4 +35,18 @@
     text-align: center;
     font-weight: bold; 
     color: rgb(203, 60, 125);
+}
+
+.love {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.car {
+    flex: 1;
+    background: rgb(192, 179, 160);
+    padding: 1rem;
+    margin: 2px;
+    text-align: center;
 }
